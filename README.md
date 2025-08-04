@@ -4,7 +4,8 @@
 
 ### Labyrinth Troop Formation:
 
-+ Labyrinth ratio's that may help
+#### Labyrinth ratio's that may help
+
 + Standard - 50/20/30
 + Cave of Monsters - 55/15/30
 + Glowstone Mine - 50/15/35
